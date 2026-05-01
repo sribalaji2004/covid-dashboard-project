@@ -1,0 +1,47 @@
+date,country,total_vaccinations,people_vaccinated,people_fully_vaccinated,boosters,daily_vaccinations,vaccines_used,continent,region,income_group,population_2020,pct_at_least_one_dose,pct_fully_vaccinated,pct_boosted
+2021-01-01,US,2800000,2800000,0,0,450000,Pfizer/BioNTech,North America,Northern America,High,331000000,0.85,0.0,0.0
+2021-03-01,US,82000000,55000000,27000000,0,2100000,Pfizer/BioNTech; Moderna; Johnson&Johnson,North America,Northern America,High,331000000,16.62,8.16,0.0
+2021-06-01,US,303000000,172000000,147000000,0,1200000,Pfizer/BioNTech; Moderna; Johnson&Johnson,North America,Northern America,High,331000000,51.96,44.41,0.0
+2021-09-01,US,374000000,212000000,183000000,0,700000,Pfizer/BioNTech; Moderna; Johnson&Johnson,North America,Northern America,High,331000000,64.05,55.29,0.0
+2022-01-01,US,521000000,248000000,203000000,70000000,900000,Pfizer/BioNTech; Moderna; Johnson&Johnson,North America,Northern America,High,331000000,74.92,61.33,21.15
+2022-06-01,US,596000000,258000000,220000000,103000000,300000,Pfizer/BioNTech; Moderna; Johnson&Johnson,North America,Northern America,High,331000000,77.95,66.47,31.12
+2022-12-01,US,668000000,269000000,229000000,145000000,150000,Pfizer/BioNTech; Moderna; Johnson&Johnson,North America,Northern America,High,331000000,81.27,69.18,43.81
+2023-06-01,US,680000000,270000000,230000000,160000000,50000,Pfizer/BioNTech; Moderna; Johnson&Johnson,North America,Northern America,High,331000000,81.57,69.49,48.34
+2021-03-01,UK,25000000,25000000,1400000,0,400000,Oxford/AstraZeneca; Pfizer/BioNTech,Europe,Northern Europe,High,67000000,37.31,2.09,0.0
+2021-06-01,UK,76000000,44000000,33000000,0,250000,Oxford/AstraZeneca; Pfizer/BioNTech; Moderna,Europe,Northern Europe,High,67000000,65.67,49.25,0.0
+2021-09-01,UK,99000000,51000000,47000000,0,300000,Oxford/AstraZeneca; Pfizer/BioNTech; Moderna,Europe,Northern Europe,High,67000000,76.12,70.15,0.0
+2022-01-01,UK,120000000,53000000,50000000,37000000,500000,Oxford/AstraZeneca; Pfizer/BioNTech; Moderna,Europe,Northern Europe,High,67000000,79.1,74.63,55.22
+2022-06-01,UK,137000000,54000000,51000000,39000000,100000,Oxford/AstraZeneca; Pfizer/BioNTech; Moderna,Europe,Northern Europe,High,67000000,80.6,76.12,58.21
+2022-12-01,UK,145000000,54000000,52000000,41000000,50000,Pfizer/BioNTech; Moderna,Europe,Northern Europe,High,67000000,80.6,77.61,61.19
+2021-03-01,India,27000000,27000000,5800000,0,2500000,Oxford/AstraZeneca; Covaxin,Asia,Southern Asia,Lower Middle,1380000000,1.96,0.42,0.0
+2021-06-01,India,247000000,220000000,27000000,0,4200000,Oxford/AstraZeneca; Covaxin; Sputnik V,Asia,Southern Asia,Lower Middle,1380000000,15.94,1.96,0.0
+2021-09-01,India,743000000,640000000,103000000,0,7000000,Oxford/AstraZeneca; Covaxin; Sputnik V,Asia,Southern Asia,Lower Middle,1380000000,46.38,7.46,0.0
+2022-01-01,India,1490000000,935000000,590000000,0,5000000,Oxford/AstraZeneca; Covaxin; Sputnik V,Asia,Southern Asia,Lower Middle,1380000000,67.75,42.75,0.0
+2022-06-01,India,1960000000,1010000000,870000000,0,1000000,Oxford/AstraZeneca; Covaxin,Asia,Southern Asia,Lower Middle,1380000000,73.19,63.04,0.0
+2022-12-01,India,2190000000,1040000000,960000000,220000000,200000,Oxford/AstraZeneca; Covaxin,Asia,Southern Asia,Lower Middle,1380000000,75.36,69.57,15.94
+2021-03-01,Brazil,11000000,11000000,900000,0,600000,Oxford/AstraZeneca; Sinovac; Janssen,South America,South America,Upper Middle,213000000,5.16,0.42,0.0
+2021-06-01,Brazil,60000000,50000000,22000000,0,1000000,Oxford/AstraZeneca; Sinovac; Pfizer/BioNTech; Janssen,South America,South America,Upper Middle,213000000,23.47,10.33,0.0
+2021-09-01,Brazil,197000000,147000000,95000000,0,1400000,Oxford/AstraZeneca; Sinovac; Pfizer/BioNTech; Janssen,South America,South America,Upper Middle,213000000,69.01,44.6,0.0
+2022-01-01,Brazil,329000000,167000000,151000000,33000000,900000,Oxford/AstraZeneca; Sinovac; Pfizer/BioNTech; Janssen,South America,South America,Upper Middle,213000000,78.4,70.89,15.49
+2022-06-01,Brazil,393000000,180000000,166000000,69000000,200000,Oxford/AstraZeneca; Pfizer/BioNTech; Janssen,South America,South America,Upper Middle,213000000,84.51,77.93,32.39
+2022-12-01,Brazil,468000000,187000000,164000000,81000000,200000,Pfizer/BioNTech; Janssen,South America,South America,Upper Middle,213000000,87.79,77.0,38.03
+2021-06-01,Germany,56000000,40000000,22000000,0,800000,Pfizer/BioNTech; Moderna; Oxford/AstraZeneca; Johnson&Johnson,Europe,Western Europe,High,83000000,48.19,26.51,0.0
+2021-09-01,Germany,111000000,57000000,52000000,0,600000,Pfizer/BioNTech; Moderna; Johnson&Johnson,Europe,Western Europe,High,83000000,68.67,62.65,0.0
+2022-01-01,Germany,162000000,62000000,57000000,28000000,800000,Pfizer/BioNTech; Moderna,Europe,Western Europe,High,83000000,74.7,68.67,33.73
+2022-06-01,Germany,186000000,65000000,62000000,45000000,100000,Pfizer/BioNTech; Moderna,Europe,Western Europe,High,83000000,78.31,74.7,54.22
+2022-12-01,Germany,192000000,64000000,63000000,48000000,50000,Pfizer/BioNTech; Moderna,Europe,Western Europe,High,83000000,77.11,75.9,57.83
+2021-06-01,France,44000000,34000000,18000000,0,600000,Pfizer/BioNTech; Moderna; Oxford/AstraZeneca; Janssen,Europe,Western Europe,High,67000000,50.75,26.87,0.0
+2021-09-01,France,100000000,52000000,49000000,0,500000,Pfizer/BioNTech; Moderna; Janssen,Europe,Western Europe,High,67000000,77.61,73.13,0.0
+2022-01-01,France,135000000,54000000,52000000,25000000,700000,Pfizer/BioNTech; Moderna,Europe,Western Europe,High,67000000,80.6,77.61,37.31
+2022-06-01,France,152000000,55000000,53000000,39000000,100000,Pfizer/BioNTech; Moderna,Europe,Western Europe,High,67000000,82.09,79.1,58.21
+2022-12-01,France,158000000,55000000,53000000,42000000,50000,Pfizer/BioNTech; Moderna,Europe,Western Europe,High,67000000,82.09,79.1,62.69
+2021-06-01,Japan,19000000,14000000,5900000,0,600000,Pfizer/BioNTech; Moderna,Asia,Eastern Asia,High,126000000,11.11,4.68,0.0
+2021-09-01,Japan,155000000,89000000,73000000,0,1200000,Pfizer/BioNTech; Moderna,Asia,Eastern Asia,High,126000000,70.63,57.94,0.0
+2022-01-01,Japan,240000000,101000000,96000000,0,300000,Pfizer/BioNTech; Moderna; Novavax,Asia,Eastern Asia,High,126000000,80.16,76.19,0.0
+2022-06-01,Japan,304000000,106000000,103000000,75000000,500000,Pfizer/BioNTech; Moderna; Novavax,Asia,Eastern Asia,High,126000000,84.13,81.75,59.52
+2022-12-01,Japan,375000000,110000000,106000000,100000000,200000,Pfizer/BioNTech; Moderna,Asia,Eastern Asia,High,126000000,87.3,84.13,79.37
+2021-06-01,South Korea,19000000,18000000,1100000,0,600000,Oxford/AstraZeneca; Pfizer/BioNTech; Janssen,Asia,Eastern Asia,High,51000000,35.29,2.16,0.0
+2021-09-01,South Korea,61000000,38000000,27000000,0,1000000,Oxford/AstraZeneca; Pfizer/BioNTech; Moderna; Janssen,Asia,Eastern Asia,High,51000000,74.51,52.94,0.0
+2022-01-01,South Korea,102000000,44000000,43000000,23000000,500000,Pfizer/BioNTech; Moderna,Asia,Eastern Asia,High,51000000,86.27,84.31,45.1
+2022-06-01,South Korea,120000000,45000000,44000000,33000000,200000,Pfizer/BioNTech; Moderna; Novavax,Asia,Eastern Asia,High,51000000,88.24,86.27,64.71
+2022-12-01,South Korea,140000000,46000000,45000000,38000000,100000,Pfizer/BioNTech; Moderna,Asia,Eastern Asia,High,51000000,90.2,88.24,74.51

@@ -1,0 +1,21 @@
+country,continent,income_group,healthcare_index,gdp_per_capita_usd,median_age,population_density,deaths_per_million,cases_per_million,cfr_pct,fully_vaccinated_pct
+Argentina,South America,Upper Middle,54.5,9912,32.4,16,2622.22,148888.89,2.7077,0.0
+Australia,Oceania,High,74.2,54799,38.7,3,646.15,446153.85,0.1448,0.0
+Brazil,South America,Upper Middle,54.3,6797,33.5,25,3295.77,175117.37,5.7848,77.0
+China,Asia,Upper Middle,64.5,10500,38.4,153,2.2,47.12,4.674,0.0
+Colombia,South America,Upper Middle,49.8,6429,31.0,45,2450.98,96078.43,3.1859,0.0
+France,Europe,High,72.1,39030,42.3,119,2417.91,597014.93,18.9295,79.1
+Germany,Europe,High,71.8,46259,45.7,240,2036.14,459036.14,4.6499,75.9
+India,Asia,Lower Middle,41.2,2100,28.4,464,385.29,32536.23,2.9029,69.6
+Iran,Asia,Upper Middle,45.1,5618,32.4,52,1357.14,63095.24,6.3791,0.0
+Italy,Europe,High,67.0,31676,47.9,206,3150.0,426666.67,14.3291,0.0
+Japan,Asia,High,76.1,40113,48.4,347,587.3,266666.67,0.3333,84.1
+Mexico,North America,Upper Middle,51.1,9863,29.3,66,497.35,4606.86,10.7958,0.0
+Russia,Europe,Upper Middle,56.5,11585,40.3,9,2554.79,124657.53,2.9057,0.0
+South Africa,Africa,Upper Middle,44.0,6001,28.0,49,1533.33,60000.0,3.3824,0.0
+South Korea,Asia,High,78.7,31637,43.7,527,666.67,621568.63,0.455,88.2
+Spain,Europe,High,65.4,27057,44.9,94,1936.17,140425.53,11.3394,0.0
+Thailand,Asia,Upper Middle,67.0,7189,40.1,136,0.0,0.04,0.0,0.0
+Turkey,Asia,Upper Middle,64.4,9043,32.4,108,1023.81,117857.14,1.7263,0.0
+UK,Europe,High,74.9,42330,40.5,277,2925.37,367164.18,14.0081,77.6
+US,North America,High,69.3,63544,38.3,36,311.18,36253.78,7.5143,69.5

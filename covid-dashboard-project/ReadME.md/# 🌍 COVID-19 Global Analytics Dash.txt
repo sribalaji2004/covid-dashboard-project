@@ -1,0 +1,111 @@
+# 🌍 COVID-19 Global Analytics Dashboard
+
+## 📌 Overview
+
+This project presents an interactive data analytics dashboard to explore global COVID-19 trends, vaccination progress, and healthcare impact.
+The goal is to provide quick insights into case growth, mortality, and vaccination effectiveness across countries and regions.
+
+---
+
+## 🚀 Tech Stack
+
+* Tableau (Data Visualization)
+* SQL (Data Cleaning & Transformation)
+* CSV Datasets
+
+---
+
+## 📊 Key Features
+
+* 📈 KPI Metrics:
+
+  * Total Cases
+  * Total Deaths
+  * Vaccination %
+  * Case Fatality Rate (CFR)
+
+* 🌍 Interactive World Map
+  Visualizes cases per million across countries
+
+* 📉 Global Trend Analysis
+  Area + bar chart showing cases and deaths over time
+
+* 🏳️ Country-Level Insights
+  Multi-country comparison using line charts
+
+* 💉 Vaccination Analysis
+  Country-wise vaccination progress with 70% benchmark
+
+* 🏥 Healthcare vs Mortality
+  Scatter plot analyzing healthcare index vs deaths
+
+---
+
+## 🎛️ Dashboard Interactivity
+
+* Filters:
+
+  * Continent
+  * Country
+  * Date Range
+  * Income Group
+
+* Actions:
+
+  * Map selection filters all charts
+  * Hover highlights across visuals
+
+---
+
+## 🗂️ Project Structure
+
+```
+covid-dashboard-project/
+│
+├── data/
+├── sql/
+├── tableau/
+├── images/
+└── README.md
+```
+
+---
+
+## 📸 Dashboard Preview
+
+
+---
+
+## ⚙️ How to Use
+
+1. Download the `.twbx` file from the `tableau/` folder
+2. Open using Tableau Desktop
+3. Interact with filters and visuals
+
+---
+
+## 🧠 Key Insights
+
+* Higher vaccination rates correlate with lower fatality trends
+* Developed countries show better healthcare resilience
+* CFR varies significantly across income groups
+
+---
+
+## 📌 Future Improvements
+
+* Real-time data integration
+* Advanced forecasting models
+* Drill-down analytics
+
+---
+
+## 👨‍💻 Author
+
+Sri Balaji
+
+---
+
+## ⭐ If you found this useful
+
+Give this repo a star!
